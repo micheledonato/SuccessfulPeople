@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Successful People</string>
+    <string name="label" translatable="false">Success</string>
+    <string name="developer">Developed by\nMICHELE DONATO\n\nVery grateful to</string>
+    <string name="email" translatable="false">dev.michele.donato@gmail.com</string>
+    <string name="no_string" translatable="false"></string>
+    <string name="done_button">Done</string>
+    <string name="passionTitle">Passion</string>
+    <string name="passionDesc">Do what you love and\nlove what you do.\nFind and chase your passion,\nyou never stop to look for it\nbecause to live you need passion.</string>
+    <string name="goalsTitle">Goals</string>
+    <string name="goalsDesc">Set your goals, pursue it and\ncommit to excellence.\nBe proud of every step you take\ntoward reaching that goal.</string>
+    <string name="ideasTitle">Ideas</string>
+    <string name="ideasDesc">Men come and go, ideas remain\nand continue to walk\non the legs of others.\nShare your ideas with other people\nand make something new.</string>
+    <string name="improveTitle">Improve</string>
+    <string name="improveDesc">Always strive to improve yourself.\nRead, learn and educate\nyourself every day\nfor the coming conflicts.</string>
+    <string name="persistTitle">Persist</string>
+    <string name="persistDesc">You need to persist through time,\nfailure, mistakes,\ncriticism and adversity.\nJust keep going and never give up.</string>
+</resources>

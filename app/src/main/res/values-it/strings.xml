@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passionDesc">Fate quello che amate e\namate quello che fate.\nTrovate e inseguite la vostra passione, non smettete mai di cercarla perchè per vivere ci vuole passione.</string>
+    <string name="done_button">Fine</string>
+    <string name="goalsTitle">Obiettivi</string>
+    <string name="ideasTitle">Idee</string>
+    <string name="improveTitle">Migliora</string>
+    <string name="passionTitle">Passione</string>
+    <string name="persistTitle">Persisti</string>
+    <string name="ideasDesc">Gli uomini passano, le idee restano\ne continuano a camminare\nsulle gambe di altri uomini.\nCondividete le vostre idee\ncon altre persone\ne create qualcosa di nuovo.</string>
+    <string name="improveDesc">Cercate sempre di migliorarvi.\nLeggete, imparate ed educate\nvoi stessi ogni giorno\nper affrontare le sfide di domani.</string>
+    <string name="persistDesc">Dovete persistere nel tempo,\nnel fallimento, negli errori,\nnelle critiche e nelle avversità.\nAndate avanti e non mollate mai.</string>
+    <string name="goalsDesc">Ponetevi degli obiettivi,\nperseguiteli e impegnatevi\nper raggiungere l\'eccellenza.\nSiate orgogliosi di ogni passo verso\nil raggiungimento di questi obiettivi.</string>
+    <string name="developer">Sviluppata da\nMICHELE DONATO\n\nRingrazio il</string>
+</resources>
